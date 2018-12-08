@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 788xHG
+D Bi-color red and green 8x8 LED matrix 20x20 mm
+K led matrix bi-color red green
+$ENDCMP
+#
 $CMP AG12864E
 D Graphics Display 128x64px,  8b parallel, 1/64 Duty, 3.3V or 5V VDD
 K display LCD graphic
