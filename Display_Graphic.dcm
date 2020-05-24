@@ -209,4 +209,10 @@ K display TFT LCD graphic
 F http://www.lcd-module.com/fileadmin/eng/pdf/grafik/ediptft70-ae.pdf
 $ENDCMP
 #
+$CMP ER-TFT020-1
+D QVGA LCD 2" TFT Display, 320x240, optional touch, ILI9342
+K LCD TFT ILI9342
+F https://www.buydisplay.com/download/manual/ER-TFT020-1_Datasheet.pdf
+$ENDCMP
+#
 #End Doc Library
